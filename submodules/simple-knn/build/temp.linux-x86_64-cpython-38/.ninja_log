@@ -1,0 +1,4 @@
+# ninja log v5
+1	20195	1726285839510975735	/data1/wutong/sig24/20230420_code/2d-gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	33db694925b592c2
+1	27396	1726285846690986125	/data1/wutong/sig24/20230420_code/2d-gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	d2241252fcae740f
+1	73112	1726285892431052312	/data1/wutong/sig24/20230420_code/2d-gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	d2f05812e3f1ecaa

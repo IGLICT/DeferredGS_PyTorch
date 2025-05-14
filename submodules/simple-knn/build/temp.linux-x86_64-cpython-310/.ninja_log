@@ -1,0 +1,4 @@
+# ninja log v5
+0	21519	1741847779	/mnt/155_16T/zhangbotao/pytorchdefGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	a8e899df822c9604
+0	25521	1741847783	/mnt/155_16T/zhangbotao/pytorchdefGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	6c1ad47df3f89280
+1	88210	1741847845	/mnt/155_16T/zhangbotao/pytorchdefGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	b9d9f25f13cc2a1d
